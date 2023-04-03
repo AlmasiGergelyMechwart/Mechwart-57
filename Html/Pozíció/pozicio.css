@@ -1,0 +1,46 @@
+#tarolo{
+    width: 800px;
+    height: 600px;
+    background-color: skyblue;
+    position: relative;
+}
+
+.karika{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#k1{
+    top: 100px;
+    left: 50px;
+    border-color: blue;
+}
+
+#k2{
+    top: 100px;
+    left: 270px;
+    border-color: black;
+}
+
+#k3{
+    top: 100px;
+    left: 490px;
+    border-color: red;
+}
+
+#k4{
+    top: 290px;
+    left: 160px;
+    border-color: yellow;
+}
+
+#k5{
+    top: 290px;
+    left: 380px;
+    border-color: green;
+}

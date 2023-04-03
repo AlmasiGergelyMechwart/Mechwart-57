@@ -1,0 +1,27 @@
+div{
+    background-color: yellowgreen;
+    width: 300px;
+    height: 300px;
+    border: 20px solid black;
+    padding: 50px;
+    margin: 50px;
+}
+
+.kerek{
+    border-radius: 50%;
+}
+
+#elso{
+    background-color: cornflowerblue;
+}
+
+#haromszog{
+    width: 0px;
+    height: 0px;
+    padding: 0px;
+    background-color: transparent;
+    border-left: 500px solid orange;
+    border-bottom: 300px solid transparent;
+    border-top: 300px solid transparent;
+    border-right: 300px solid transparent;
+}
